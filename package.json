@@ -1,0 +1,22 @@
+{
+    "name": "caesar-cipher2021q2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AYaki-coder/Caesar-cipher2021Q2.git"
+    },
+    "author": "ayaki-coder",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AYaki-coder/Caesar-cipher2021Q2/issues"
+    },
+    "homepage": "https://github.com/AYaki-coder/Caesar-cipher2021Q2#readme",
+    "dependencies": {
+        "commander": "^7.2.0"
+    }
+}
